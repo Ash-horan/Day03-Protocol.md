@@ -43,8 +43,8 @@ We finished up yesterdays topic on descriptive statistics. We completed an exerc
 
 ## __Discussion Questions__
 
-Q1. Do we feel confident with the descriptive stats exercise? Including the merging via GitHub? 
-Q2. Any issues with the Bash Command line exercise?  
+Q1. Do we feel confident with the descriptive stats exercise? Including the merging via GitHub?   
+Q2. Is it possible to record important tutorials?
 Q3. How to edit the name of the protocol?
 
 ---
